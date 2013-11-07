@@ -2,16 +2,16 @@ development: &DEV
   adapter: mysql2
   database: basic_crud
   username: root
-  password:
+  password: rootfuckers
 
 test: &TEST
   adapter: mysql2
   database: basic_crud_test
   username: root
-  password:
+  password: rootfuckers
 
 production:
   adapter: mysql2
   database: basic_crud_production
   username: root
-  password:
+  password: rootfuckers
